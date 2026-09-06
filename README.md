@@ -36,7 +36,7 @@ This skill is designed for the following workflow:
 
 Below is the reference image included in this repo:
 
-![Reference overview figure](assets/reference_overview_example.png)
+![Reference overview figure](reference_overview_example.png)
 
 ---
 
@@ -47,8 +47,7 @@ paper-overview-figures-skill/
 ├── README.md
 ├── .gitignore
 ├── LICENSE
-├── assets/
-│   └── reference_overview_example.png
+├── reference_overview_example.png
 ├── prompts/
 │   ├── optimized_general_prompt_zh.md
 │   └── optimized_general_prompt_en.md
