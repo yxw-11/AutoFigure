@@ -57,8 +57,6 @@ paper-overview-figures-skill/
 ├── examples/
 │   ├── example_usage_zh.md
 │   └── example_usage_en.md
-└── docs/
-    └── repo_notes.md
 ```
 
 ---
